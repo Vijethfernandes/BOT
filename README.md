@@ -1,2 +1,2 @@
 # BOT
-hi there.hello
+hi there.my name is vijeth
